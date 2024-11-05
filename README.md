@@ -1,5 +1,5 @@
-<h1 align="center">I'm Eyüp Yenikomşu</h1>
-<h3 align="center">Software Engineer</h3>
+<h1>I'm Eyüp Yenikomşu</h1>
+<h3>Software Engineer</h3>
 
 - Reach me: **eyup_bertu@hotmail.com**
 
