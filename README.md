@@ -1,7 +1,7 @@
 <h1>I'm Eyüp Yenikomşu</h1>
 <h3>Software Engineer</h3>
 
-- Reach me: **eyup_bertu@hotmail.com**
+- Reach me: **eyup.bertu@gmail.com**
 
 - Resume: [My Resume](https://drive.google.com/file/d/1cBKtnk6Fv7CfYwmDo8zEy_slDEFbC85b/view)
 
